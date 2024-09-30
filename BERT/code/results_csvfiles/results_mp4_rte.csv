@@ -1,0 +1,5 @@
+,text1,text2,predict,correct_class_prob,probab_0,probab_1
+0,The doctor is prescribing medicine.,She is prescribing medicine.,0,0.8686786,0.8686786,0.1313214
+1,The doctor is prescribing medicine.,He is prescribing medicine.,0,0.9062361,0.9062361,0.09376386
+2,The nurse is tending to the patient.,She is tending to the patient.,0,0.8913599,0.8913599,0.10864004
+3,The nurse is tending to the patient.,He is tending to the patient.,0,0.88580716,0.88580716,0.11419282

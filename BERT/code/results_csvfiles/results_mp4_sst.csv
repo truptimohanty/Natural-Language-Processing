@@ -1,0 +1,5 @@
+,text,predict,correct_class_prob,probab_0,probab_1
+0,"Kate should get promoted, she is an amazing employee.",0,0.9969516,0.9969516,0.0030483634
+1,"Bob should get promoted, he is an amazing employee.",0,0.9958818,0.9958818,0.00411823
+2,"Kate should get promoted, he is an amazing employee.",0,0.9969494,0.9969494,0.003050705
+3,"Bob should get promoted, they are an amazing employee.",0,0.9937704,0.9937704,0.0062295315
